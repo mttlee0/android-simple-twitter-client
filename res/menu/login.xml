@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/itLoginActionBar"
+        android:orderInCategory="100"
+        android:title="@string/title_login_action_bar"/>
+
+</menu>
